@@ -1,0 +1,32 @@
+.file{
+    visibility: hidden;
+}
+.form { 
+    margin: 40px auto; 
+    width:450px;
+}
+.part{
+    margin-bottom: 20px;
+}
+.upload{
+    width:300px;
+   
+}
+.padd{
+    padding: 0.4rem;
+}
+.mx{
+    margin-right: 30px;
+}
+.wd{
+    width: 390px;
+}
+.browse{
+    border: 1px solid;
+    font-size: 14px;
+    padding-top:4px;
+    padding-bottom: 7px;
+    padding-right: 25px;
+    padding-left: 10px;
+    margin-left: 5px;
+}
